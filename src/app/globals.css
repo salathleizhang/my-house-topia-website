@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@font-face {
+  font-family: 'ShangShouTuHuaTi';
+  src: url('/fonts/ShangShouTuHuaTi.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 如果有其他原始全局样式，请保留在这里 */
